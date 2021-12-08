@@ -27,8 +27,18 @@
         align-items: flex-start;
       }
 
+      @media screen and (min-width:321px) and (max-width:768px){
+        align-items: center;
+      }
+
       img {
         height: 90%;
+        @media screen and (min-width:321px) and (max-width:768px){
+          margin-bottom: 10%;
+
+        }
+  
+
 
         @include mobile{
           height: 50%;
