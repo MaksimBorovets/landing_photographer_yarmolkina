@@ -19,7 +19,7 @@ export default function Works() {
       title: "Преподаватель",
       desc:
         `Преподаю курсы:
-         "Постановка света при фотосъемке"`,
+         "Постановка света при фотосъемке."`,
       img:
         "https://images.pexels.com/photos/752525/pexels-photo-752525.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
     },
